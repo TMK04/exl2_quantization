@@ -1,0 +1,9 @@
+# Change this to match your OS, CUDA, & Python
+https://download.pytorch.org/whl/cu118/torch-2.1.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=8e2914484e74aeba08570a52c8057cc5d59c19b72a623a6ded29dc9b988151c0
+
+fastparquet
+huggingface_hub[cli]
+ninja
+safetensors>=0.3.2
+sentencepiece>=0.1.97
+tokenizers
